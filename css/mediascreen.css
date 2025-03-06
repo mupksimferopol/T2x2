@@ -1,0 +1,673 @@
+@media screen and (max-width: 768px) {
+    .container{
+        max-width:992px ;
+    }
+    .header-nav__logo-img{
+        max-width: 136px;
+        max-height: 72px;
+    }
+    .header-nav__link{
+        font-size: 13px;
+        font-weight: 500;
+        padding-left: 19px;
+    }
+    .header-nav__link-reg{
+        font-size: 13px;
+        font-weight: 500;
+        padding-left: 19px;
+    }
+    .header-slogan{
+        font-size: 25px;
+        max-width: 620px;
+    }
+    .header-title{
+        font-size: 52px;
+    }
+    .main-section-intro {
+        min-height: 234px;
+    }
+    .main-section-intro__slogan{
+        font-size: 22px;
+        max-width:403px;
+    }
+    .main-section-intro__girlPhoto {
+        font-size: 22px;
+    }
+    .main-section-about-us-first {
+        min-height: 385px;
+        margin-top: 60px;
+        background-size: 567px 378px;
+    }
+    .about-us__img-title{
+        width: 74px;
+        height: 280px;
+    }
+    .main-section-about-us-only-text {
+        margin-left: 37px;
+    }
+    .main-section-about-us__title {
+        font-size: 28px;
+        max-width: 744px;
+        margin-bottom: -6px;
+    }
+    .main-section-about-us__text-about {
+        font-size: 17px;
+        max-width: 437px;
+        margin-left: 19px;
+    }
+    .main-section-about-us-windows {
+        min-height: 230px;
+    }
+    .windows__cyberclub {
+        min-height: 210px;
+        min-width: 210px;
+    }
+    .cyberclub__title {
+        font-size: 19px;
+    }
+    .cyberclub__text {
+        font-size: 13px;
+        width: 174px;
+        height: 59px;
+        margin-left: 28px;
+    }
+    .windows__performance{
+        min-height: 210px;
+        min-width: 210px;
+    }
+    .performance__title {
+        font-size: 19px;
+    }
+    .performance__text {
+        font-size: 13px;
+        width: 174px;
+        height: 59px;
+        margin-left: 28px;
+    }
+    .windows__snackbar{
+        min-height: 210px;
+        min-width: 210px;
+    }
+    .snackbar__title {
+        font-size: 19px;
+    }
+    .snackbar__text {
+        font-size: 13px;
+        width: 174px;
+        height: 59px;
+        margin-left: 28px;
+    }
+    .interior__title {
+        font-size: 34px;
+        margin: 62px auto;
+        margin-top: 124px;
+    }
+    .text-to-reserv{
+        font-size: 19px;
+    }
+    footer{
+        min-height: 186px;
+    }
+    .footer-inner {
+        padding-top: 31px;
+    }
+    .footer__logo-img {
+        width: 136px;
+        height: 72px;
+    }
+    .footer-cooperation__title {
+        font-size: 19px;
+    }
+    .footer-cooperation__mail {
+        font-size: 12px;
+    }
+    .footer-cooperation__number {
+        font-size: 12px;
+    }
+    .footer-social-media {
+        font-size: 19px;
+    }
+    .footer-social-media__vk{
+        width: 33px;
+        height: 22px;
+    }
+    .footer-social-media__tg{
+        width: 29px;
+        height: 22px;
+    }
+    .sc-footer {
+        margin-top: 43px;
+        min-height: 81px;
+    }
+    .sc-footer__text {
+        font-size: 12px;
+    }
+    .sc-footer__link {
+        font-size: 12px;
+    }
+    /* ПРАЙС ЛИСТ */
+    .section-intro__text{
+        font-size: 17px;
+    }
+    /* КОНТАКТЫ */
+    .contacts-main-section__title{
+        font-size: 19px;
+        font-weight: 400;
+    }
+    .contacts-main-section__info{
+        font-size: 12px;
+    }
+    /* АКЦИИ */
+    .sales-intro__img-cross{
+        max-width: 113px;
+        max-height: 113px;
+    }
+    .sales-slogan__text{
+        font-size: 17px;
+    }
+    .first-sale__title{
+        font-size: 37px;
+    }
+    .first-sale__text-about{
+        font-size: 22px;
+        max-width: 360px;
+    }
+    .first-sale__hint{
+        font-size: 16px;
+        max-width: 360px;
+    }
+    .second-sale__title{
+        font-size: 37px;
+    }
+    .second-sale__text-about{
+        font-size: 22px;
+        max-width: 360px;
+    }
+    .second-sale__hint{
+        font-size: 16px;
+        max-width: 360px;
+    }
+    .third-sale__title{
+        font-size: 37px;
+    }
+    .third-sale__text-about{
+        font-size: 22px;
+        padding-bottom: 100px;
+        max-width: 360px;
+    }
+    .fourth-sale__title{
+        max-width: 360px;
+        font-size: 37px;
+    }
+    .fourth-sale__text-about{
+        font-size: 22px;
+        max-width: 360px;
+        padding-bottom: 100px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .container{
+        max-width:576px ;
+    }
+    .header-nav__logo-img{
+        max-width:79px;
+        max-height: 42px;
+    }
+    .header-nav__link{
+        font-size: 8.5px;
+    }
+    .header-nav__link-reg{
+        font-size: 8.5px;
+    }
+    .header-slogan{
+        font-size: 14.5px;
+        max-width: 360px;
+    }
+    .header-title{
+        font-size: 30px;
+    }
+    .main-section-intro {
+        min-height: 135.52px;
+    }
+    .main-section-intro__slogan {
+        font-size: 12.76px;
+        max-width: 233.54px;
+    }
+    .main-section-intro__girlPhoto {
+        font-size: 12.76px;
+    }
+    .main-section-about-us-first {
+        min-height: 223.3px;
+        margin-top: 34.8px;
+        background-size: 328.66px 219.14px;
+    }
+    .about-us__img-title {
+        width: 42.94px;
+        height: 162.4px;
+    }
+    .main-section-about-us-only-text {
+        margin-left: 21.46px;
+    }
+    .main-section-about-us__title {
+        font-size: 16.24px;
+        max-width: 431.92px;
+        margin-bottom: -3.48px;
+    }
+    .main-section-about-us__text-about {
+        font-size: 9.86px;
+        max-width: 253.06px;
+        margin-left: 11.02px;
+    }
+    .main-section-about-us-windows {
+        min-height: 133.4px;
+    }
+    .windows__cyberclub {
+        min-height: 121.8px;
+        min-width: 121.8px;
+    }
+    .cyberclub__title {
+        font-size: 11.02px;
+    }
+    .cyberclub__text {
+        font-size: 7.54px;
+        width: 100.82px;
+        height: 34.22px;
+        margin-left: 16.24px;
+    }
+    .windows__performance {
+        min-height: 121.8px;
+        min-width: 121.8px;
+    }
+    .performance__title {
+        font-size: 11.02px;
+    }
+    .performance__text {
+        font-size: 7.54px;
+        width: 100.82px;
+        height: 34.22px;
+        margin-left: 16.24px;
+    }
+    .windows__snackbar {
+        min-height: 121.8px;
+        min-width: 121.8px;
+    }
+    .snackbar__title {
+        font-size: 11.02px;
+    }
+    .snackbar__text {
+        font-size: 7.54px;
+        width: 100.82px;
+        height: 34.22px;
+        margin-left: 16.24px;
+    }
+    .interior__title {
+        font-size: 19.72px;
+        margin: 35.96px auto;
+        margin-top: 71.72px;
+    }
+    footer {
+        min-height: 107.88px;
+    }
+    .footer-inner {
+        padding-top: 17.98px;
+    }
+    .footer__logo-img {
+        width: 78.68px;
+        height: 41.76px;
+    }
+    .footer-cooperation__title {
+        font-size: 11.02px;
+    }
+    .footer-cooperation__mail {
+        font-size: 6.96px;
+    }
+    .footer-cooperation__number {
+        font-size: 6.96px;
+    }
+    .footer-social-media {
+        font-size: 11.02px;
+    }
+    .footer-social-media__vk {
+        width: 19.14px;
+        height: 12.76px;
+    }
+    .footer-social-media__tg {
+        width: 16.82px;
+        height: 12.76px;
+    }
+    .sc-footer {
+        margin-top: 24.94px;
+        min-height: 47.18px;
+    }
+    .sc-footer__text {
+        font-size: 6.96px;
+    }
+    .sc-footer__link {
+        font-size: 6.96px;
+    }
+    /* ПРАЙС ЛИСТ */
+    .section-intro__text {
+        font-size: 9.86px;
+    }
+    .section-intro__img-apps{
+        max-width: 92px;
+        max-height: 92px;
+    }
+    .pricelist-main-section-intro{
+        min-height: 191px;
+    }
+    table{
+        max-width: 400px;
+    }
+    th, td{
+        font-size: 12px;
+    }
+    .pricelist-table__title{
+        font-size: 17px}
+    /* КОНТАКТЫ */
+    .contacts-main-section__title {
+        font-size: 17px;
+        font-weight: 400;
+    }
+    .contacts-main-section__info{
+        font-size: 6.96px;
+    }
+    /* АКЦИИ */
+    .sales-section-intro{
+        min-height: 191px;
+    }
+    .sales-intro__img-cross {
+        max-width: 65.54px;
+        max-height: 65.54px;
+    }
+    .sales-slogan__text {
+        font-size: 9.86px;
+    }
+    .first-sale__title {
+        font-size: 21.46px;
+    }
+    .first-sale__text-about {
+        font-size: 12.76px;
+        max-width: 208.8px;
+    }
+    .first-sale__hint {
+        font-size: 9.28px;
+        max-width: 208.8px;
+    }
+    .second-sale__title {
+        font-size: 21.46px;
+    }
+    .second-sale__text-about {
+        font-size: 12.76px;
+        max-width: 208.8px;
+    }
+    .second-sale__text-about {
+        font-size: 12.76px;
+        max-width: 208.8px;
+    }
+    .second-sale__hint {
+        font-size: 9.28px;
+        max-width: 208.8px;
+    }
+    .third-sale__title {
+        font-size: 21.46px;
+    }
+    .third-sale__text-about {
+        font-size: 12.76px;
+        padding-bottom: 58px;
+        max-width: 208.8px;
+    }
+    .fourth-sale__title {
+        max-width: 208.8px;
+        font-size: 21.46px;
+    }
+    .fourth-sale__text-about {
+        font-size: 12.76px;
+        max-width: 208.8px;
+        padding-bottom: 58px;
+    }
+}
+@media screen and (max-width: 415px) {
+    .container {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+    .header-nav{
+        flex-direction: column;
+        align-items: center;
+    }
+    .header-nav__logo-img {
+        max-width: 100px;
+    }
+    .header-nav__links{
+        justify-content: center;
+    }
+    .header-nav__link {
+        font-size: 10px;
+    }
+    .header-nav__link-reg {
+        font-size: 10px;
+        padding: 0;
+    }
+    .header-slogan {
+        font-size: 10px;
+        max-width: 236px;
+    }
+    .header-title {
+        font-size: 20px;
+    }
+    .main-section-intro {
+        min-height: 89px;
+    }
+    .main-section-intro__slogan {
+        font-size: 8px;
+        max-width: 153px;
+    }
+    .main-section-intro__girlPhoto {
+        font-size: 8px;
+    }
+    .main-section-about-us-first {
+        min-height: 146px;
+        margin-top: 23px;
+        background-size: 215px 144px;
+    }
+    .about-us__img-title {
+        width: 28px;
+        height: 106px;
+    }
+    .main-section-about-us-only-text {
+        margin-left: 14px;
+    }
+    .main-section-about-us__title {
+        font-size: 11px;
+        max-width: 283px;
+        margin-bottom: -2px;
+    }
+    .main-section-about-us__text-about {
+        font-size: 6px;
+        max-width: 166px;
+        margin-left: 7px;
+    }
+    .main-section-about-us-windows {
+        min-height: 87px;
+    }
+    .windows__cyberclub {
+        min-height: 80px;
+        min-width: 80px;
+    }
+    .cyberclub__title {
+        font-size: 7px;
+    }
+    .cyberclub__text {
+        font-size: 5px;
+        width: 66px;
+        height: 22px;
+        margin-left: 11px;
+    }
+    .windows__performance {
+        min-height: 80px;
+        min-width: 80px;
+    }
+    .performance__title {
+        font-size: 7px;
+    }
+    .performance__text {
+        font-size: 5px;
+        width: 66px;
+        height: 22px;
+        margin-left: 11px;
+    }
+    .windows__snackbar {
+        min-height: 80px;
+        min-width: 80px;
+    }
+    .snackbar__title {
+        font-size: 7px;
+    }
+    .snackbar__text {
+        font-size: 5px;
+        width: 66px;
+        height: 22px;
+        margin-left: 11px;
+    }
+    .interior__title {
+        font-size: 13px;
+        margin: 24px auto;
+        margin-top: 47px;
+    }
+    footer {
+        min-height: 70px;
+    }
+    .footer-inner {
+        padding-top: 12px;
+    }
+    .footer__logo-img {
+        width: 51px;
+        height: 27px;
+    }
+    .footer-cooperation__title {
+        font-size: 7px;
+    }
+    .footer-cooperation__mail {
+        font-size: 5px;
+    }
+    .footer-cooperation__number {
+        font-size: 5px;
+    }
+    .footer-social-media {
+        font-size: 7px;
+    }
+    .footer-social-media__vk {
+        max-width: 13px;
+        max-height: 8px;
+    }
+    .footer-social-media__tg {
+        max-width: 11px;
+        max-height: 8px;
+    }
+    .sc-footer {
+        margin-top: 16px;
+        min-height: 31px;
+    }
+    .sc-footer__text {
+        font-size: 5px;
+    }
+    .sc-footer__link {
+        font-size: 5px;
+    }
+    /* ПРАЙС ЛИСТ */
+    .section-intro__text {
+        font-size: 6px;
+    }
+    .section-intro__img-apps {
+        max-width: 60px;
+        max-height: 60px;
+    }
+    .pricelist-main-section-intro {
+        max-height: 125px;
+    }
+    table {
+        width: 300px;
+    }
+    th,td {
+        font-size: 8px;
+    }
+    .pricelist-table__title {
+        font-size: 11px;
+    }
+    .pricelist-table__fs, .pricelist-table__sc{
+        width: 90%;
+        margin: 0 auto;
+    }
+    /* КОНТАКТЫ */
+    .contacts-main-section{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .contacts-main-section__title {
+        font-size: 11px;
+        font-weight: 400;
+    }
+    .contacts-main-section__info {
+        font-size: 15px;
+    }
+    .registration-section__text, .signin-section__text{
+       padding: 50px;
+    }
+    /* АКЦИИ */
+    .sales-section-intro {
+        min-height: 125px;
+    }
+    .sales-intro__img-cross {
+        max-width: 43px;
+        max-height: 43px;
+    }
+    .sales-slogan__text {
+        font-size: 6px;
+    }
+    .first-sale__title {
+        font-size: 14px;
+    }
+    .first-sale__text-about {
+        font-size: 8px;
+        max-width: 137px;
+    }
+    .first-sale__hint {
+        font-size: 6px;
+        max-width: 137px;
+    }
+    .second-sale__title {
+        font-size: 14px;
+    }
+    .second-sale__text-about {
+        font-size: 8px;
+        max-width: 137px;
+    }
+    .second-sale__text-about {
+        font-size: 8px;
+        max-width: 137px;
+    }
+    .second-sale__hint {
+        font-size: 6px;
+        max-width: 137px;
+    }
+    .third-sale__title {
+        font-size: 14px;
+    }
+    .third-sale__text-about {
+        font-size: 8px;
+        padding-bottom: 38px;
+        max-width: 137px;
+    }
+    .fourth-sale__title {
+        max-width: 137px;
+        font-size: 14px;
+    }
+    .fourth-sale__text-about {
+        font-size: 8px;
+        max-width: 137px;
+        padding-bottom: 38px;
+    }
+}

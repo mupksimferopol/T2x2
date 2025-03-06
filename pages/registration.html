@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>T2x2 Registration</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/mediascreen.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-inner">
+                    <nav>
+                        <ul>
+                            <div class="header-nav">
+                                <li>
+                                    <a href="../index.html"><img src="../img/логго.png" class="header-nav__logo-img"></a>
+                                </li>
+                                <div class="header-nav-links">
+                                    <li><a href="../index.html" class="header-nav__link">О нас</a></li>
+                                    <li><a href="pricelist.html" class="header-nav__link">Прайс-лист</a></li>
+                                    <li><a href="sales.html" class="header-nav__link">Акции</a></li>
+                                    <li><a href="contacts.html" class="header-nav__link">Контакты</a></li>
+                                    <li><a href="registration.html" class="header-nav__link-reg">Регистрация / </a></li>
+                                    <li><a href="signin.html" class="header-nav__link-reg">Вход</a></li>
+                                </div>
+                            </div>    
+                        </ul>
+                    </nav>
+                    <div class="header-title">
+                        <p><span class="green-text">РЕГИСТРАЦИЯ</span></p>
+                    </div>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <section>
+                <div class="registration-section">
+                    <form method="post" class="registration__form">
+                        <label for="username">Логин:</label>
+                        <input type="text" id="username" name="username" placeholder="Введите логин" required><br>
+                        <label for="password">Пароль:</label>
+                        <input type="password" id="password" name="password" placeholder="Введите пароль" required><br>
+                        <label for="confirm_password">Повторите пароль:</label><br>
+                        <input type="password" id="confirm_password" name="confirm_password" placeholder="Повторите пароль" required><br>
+                        <label for="email">Электронная почта:</label>
+                        <input type="email" id="email" name="email" placeholder="Введите вашу электронную почту" required><br>
+                        <label for="phone">Номер телефона:</label>
+                        <input type="tel" id="phone" name="phone" placeholder="+7 (999) 123-45-67" required><br>
+                        <button type="submit">Зарегистрироваться</button><br><br>
+                        <a href="signin.html" class="signin__link">Уже есть аккаунт?</a><br>
+                    </form>
+                    <p class="registration-section__text">Создав аккаунт в нашем ПК-клубе, на него начнут поступать <span class="green-text">бонусные баллы</span>, которые можно будет обменять на различные призы и скидки. Зарегистрированные пользователи получают доступ к <span class="green-text">эксклюзивным турнирам</span> по популярным играм, где вы сможете показать свои навыки и побороться за ценные награды.<br><br>
+                    Вы будете получать <span class="green-text">уведомления</span> о предстоящих мероприятиях, акциях и специальных предложениях. <br><br>
+                    Не упустите шанс стать частью нашего дружного сообщества геймеров и насладиться всеми преимуществами членства в ПК-клубе!</p>
+                </div>
+            </section>
+    </main>
+    <footer>
+        <div class="container">
+            <div class="footer-inner">
+                <a href="../index.html"><img src="../img/логго.png" class="footer__logo-img"></a>
+                <div clas="footer-cooperation">
+                    <p class="footer-cooperation__title">Сотрудничество</p>
+                    <a href="mailto:info@t2x2club.gg" class="footer-cooperation__mail">info@t2x2club.gg</a>
+                    <p class="footer-cooperation__number">+7 (978)-123-45-67</p>
+                </div>
+                <div class="footer-social-media">
+                    <p class="footer-social-media">Соцсети</p>
+                    <a href="https://vk.com/feed"><img src="../img/vk icon.png" class="footer-social-media__vk"></a>
+                    <a href="https://web.telegram.org/"><img src="../img/tg icon.png" class="footer-social-media__tg"></a>
+                </div>
+            </div>
+            <div class="sc-footer">
+                <p class="sc-footer__text">Все права защищены | 2025</p>
+                <a href="../index.html" class="sc-footer__link">T2x2</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
